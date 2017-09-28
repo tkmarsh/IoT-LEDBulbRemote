@@ -1,5 +1,5 @@
 # LEDBulbRemote
-## A sketch that cycles through IR controls for cheap RGBW LED bulbs.
+## An example sketch that cycles through an IR control function for cheap RGBW LED bulbs.
 
 **Currenly only works with ones from Home Bargains.**
 
