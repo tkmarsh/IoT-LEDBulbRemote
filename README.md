@@ -1,9 +1,7 @@
 # LEDBulbRemote
-## IoT LED Bulb controller
-
 **Currenly only works with ones from Home Bargains.**
 
-Sketch for NodeMCU boards that can be paired with IFTT to control bulbs using Google Assistant.
+This repo includes two sketches, one demonstrating the use of the ledRemote function (arduino-example.ino) and one that implements the function in a NodeMCU based IoT remote (NodeMCU.ino).
 
 I've got a few different bulbs with different IR codes sitting around, so I might decode all the remotes and turn this into an RGWB LED Bulb remote library.
 
