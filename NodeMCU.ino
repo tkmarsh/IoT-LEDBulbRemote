@@ -10,7 +10,7 @@
 #include <IRremoteESP8266.h>
 #include <IRsend.h>
 
-IRsend irsend(4);
+IRsend irsend(4); //D2 pin
 ESP8266WebServer server(49000);
 const char* ssid = "[YOUR SSID]";
 const char* password = "[YOUR PASSWORD]";
