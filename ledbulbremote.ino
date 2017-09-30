@@ -1,5 +1,5 @@
 //Connect IR LED to pin 3
-#include <IRremote.h>
+#include <IRremote.h> //Get the library from here: github.com/z3t0/Arduino-IRremote
 IRsend irsend;
 
 void ledRemote(String command,  int index){
