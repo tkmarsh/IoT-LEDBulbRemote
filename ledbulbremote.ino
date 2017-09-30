@@ -1,3 +1,4 @@
+//Connect IR LED to pin 3
 #include <IRremote.h>
 IRsend irsend;
 
