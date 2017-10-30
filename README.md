@@ -1,5 +1,5 @@
 # LEDBulbRemote
-**Currenly only works with ones from Home Bargains.**
+**Currenly only works with ones from Home Bargains and B&M.**
 
 This repo includes two sketches, one demonstrating the use of the ledRemote function (arduino-example.ino) and one that implements the function in a NodeMCU based IoT remote (NodeMCU.ino).
 
